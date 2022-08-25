@@ -1,0 +1,2 @@
+public class kurulum6 {
+}
